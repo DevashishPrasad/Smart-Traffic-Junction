@@ -1,5 +1,9 @@
 # Smart-Traffic-Junction
 
+## Working Demo here
+
+[Video](https://www.linkedin.com/feed/update/urn:li:activity:6521835939793334272)
+
 ## This repository contains the partial code and implementation of the system explained below, full code will be released soon
 
 ## Introduction
