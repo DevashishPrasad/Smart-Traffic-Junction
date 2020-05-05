@@ -12,6 +12,8 @@ The dataset was created using <a href="http://www.eecs.qmul.ac.uk/~sgg/QMUL_Junc
 3) classifier.py : trains the SVM classifier and saves the model into pickle
 4) predictor.py : reads the video and predicts the output on the image
 
+## System Architecture
+![System Architecture of smart traffic junction](https://github.com/DevashishPrasad/Smart-Traffic-Junction/blob/master/SystemArch.png)
 ## Results
 <img src="result.png" width="450">
 
