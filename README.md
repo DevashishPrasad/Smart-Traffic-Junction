@@ -1,6 +1,6 @@
 # Smart-Traffic-Junction
 
-This repository contains the working implementation of the paper <a href="Paper.pdf">link</a>. A simple algorithm for traffic density estimation using image processing and machine learning.
+This repository contains the working implementation of the paper [link](https://arxiv.org/abs/2005.01770). A simple algorithm for traffic density estimation using image processing and machine learning.
 
 ## Dataset
 
