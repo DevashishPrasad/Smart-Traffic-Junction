@@ -2,6 +2,13 @@
 
 This repository contains the working implementation of the paper [link](https://arxiv.org/abs/2005.01770). A simple algorithm for traffic density estimation using image processing and machine learning.
 
+> **HOG, LBP and SVM based Traffic Density Estimation at Intersection**<br>
+> [Devashish Prasad](https://github.com/DevashishPrasad),
+> [Ayan Gadpal](https://github.com/ayangadpal),
+> [Kshitij Kapadni](https://github.com/kshitijkapadni),
+> [Manish Visave](https://github.com/ManishDV),
+> <br>
+
 ## Dataset
 
 The dataset was created using <a href="http://www.eecs.qmul.ac.uk/~sgg/QMUL_Junction_Datasets/Junction2/Junction2.html">QMUL junction 2</a> video. We manually sorted the rois of the <a href="dataset.zip">dataset</a>.
