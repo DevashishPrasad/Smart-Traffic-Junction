@@ -28,4 +28,4 @@ The dataset was created using <a href="http://www.eecs.qmul.ac.uk/~sgg/QMUL_Junc
 Devashish Prasad : devashishkprasad [at] gmail [dot] com <br>
 Ayan Gadpal : ayangadpal2 [at] gmail [dot] com <br>
 Kshitij Kapadni : kshitij.kapadni [at] gmail [dot] com <br>
-Manish Visave : manishvisave149 [at] gmail [dot] com
+Manish Visave : manishvisave149 [at] gmail [dot] com <br>
